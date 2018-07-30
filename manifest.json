@@ -67,7 +67,8 @@
 		"saprevenuecloudbackoffice",
 		"yaasconfiguration",
 		"yaasconfigurationbackoffice",
-		"subscriptionservices"
+		"subscriptionservices",
+        "testemptyext"
     ],
     "storefrontAddons" : [
 		{
